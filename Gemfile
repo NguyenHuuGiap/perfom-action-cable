@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'rails', '~> 5.1'
 
-gem 'sqlite3'
+gem 'mysql2', '~> 0.3.18'
 gem 'redis'
 gem 'puma'
 
